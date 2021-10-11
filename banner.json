@@ -1,0 +1,30 @@
+{
+	"code":200,
+	"data":[
+		{
+			"id":1885493028,
+			"type":0,
+			"src":"https://p1.music.126.net/M1SUPscPHLfP35b6Ytj3Bg==/109951166508607323.jpg?imageView&quality=89"
+		},
+		{
+			"id":1885421530,
+			"type":0,
+			"src":"http://p1.music.126.net/G6BcRFZw1VUTkPqhittrsg==/109951166508582093.jpg?imageView&quality=89"
+		},
+		{
+			"id":1885493028,
+			"type":2,
+			"src":"http://p1.music.126.net/QH1PDIrEvICkW5EwAlDGOQ==/109951166508785471.jpg?imageView&quality=89"
+		},
+		{
+			"id":1885493028,
+			"type":3,
+			"src":"http://p1.music.126.net/3MO8PMy1Gfd-XpZj9N83hQ==/109951166508628091.jpg?imageView&quality=89"
+		},
+		{
+			"id":1885175990,
+			"type":1,
+			"src":"http://p1.music.126.net/1Oep5u5nrQ9OELex1kxENA==/109951166508637651.jpg?imageView&quality=89"
+		}
+	]
+}
